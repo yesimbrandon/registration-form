@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+lerna-debug.log
+npm-debug.log
+node_modules/
+coverage/
+reports/
+dist/
+build/
